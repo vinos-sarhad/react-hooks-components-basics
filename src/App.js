@@ -5,6 +5,7 @@ import Comment from "./Comment";
 function App() {
   return (
     <div>
+      <h1>Edited</h1>
       <Article />
       <Comment />
     </div>
